@@ -1,0 +1,28 @@
+= Pedometer Release Notes 1.0.0 =
+
+== Overview ==
+
+Pedometer is an application for Android-based smart phones which aggregate data from accelerometer sensor and convert it into statistics values(current speed, number of steps in date range etc).
+
+== System Requirements ==
+
+  * smart phone with Android 2.1+
+  * Accelerometer sensor
+  * SD card (optional)
+
+== Supported Features == 
+
+  # Service for use statistics by another applications
+  # Steps/speed Widget 
+  # Steps statistics
+  # Speed statistics
+  # Max Speed statistics(optional)
+  # Configuration interface for service
+
+== Know issues ==
+
+  # bad auto calibration
+
+
+
+
