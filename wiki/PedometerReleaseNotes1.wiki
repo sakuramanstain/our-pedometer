@@ -1,3 +1,4 @@
+#summary Pedometer and PedometerWidget Release Notes
 = Pedometer Release Notes 1.0.0 =
 
 == Overview ==
@@ -22,7 +23,5 @@ Pedometer is an application for Android-based smart phones which aggregate data 
 == Know issues ==
 
   # bad auto calibration
-
-
 
 
